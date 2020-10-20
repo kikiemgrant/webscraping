@@ -1,0 +1,509 @@
+,Name,Position,Club,Nationality,Age,Height (cm),Weight (kg),On Loan
+0,Bernd Leno,Goalkeeper,Arsenal,Germany,28,190,83,False
+1,Matt Macey,Goalkeeper,Arsenal,England,26,198,81,False
+2,Rúnar Alex Rúnarsson,Goalkeeper,Arsenal,Iceland,25,186,76,False
+3,Héctor Bellerín,Defender,Arsenal,Spain,25,178,74,False
+4,Kieran Tierney,Defender,Arsenal,Scotland,23,178,70,False
+5,William Saliba,Defender,Arsenal,France,19,192,83,False
+6,Sokratis,Defender,Arsenal,Greece,32,186,85,False
+7,Rob Holding,Defender,Arsenal,England,25,189,75,False
+8,Shkodran Mustafi,Defender,Arsenal,Germany,28,184,82,False
+9,Calum Chambers,Defender,Arsenal,England,25,182,66,False
+10,David Luiz,Defender,Arsenal,Brazil,33,189,84,False
+11,Sead Kolasinac,Defender,Arsenal,Bosnia And Herzegovina,27,183,85,False
+12,Gabriel Magalhães,Defender,Arsenal,Brazil,22,190,78,False
+13,Cédric Soares,Defender,Arsenal,Portugal,29,172,67,False
+14,Pablo Marí,Defender,Arsenal,Spain,27,193,87,False
+15,Mesut Özil,Midfielder,Arsenal,Germany,32,180,76,False
+16,Ainsley Maitland-Niles,Midfielder,Arsenal,England,23,177,71,False
+17,Mohamed Elneny,Midfielder,Arsenal,Egypt,28,180,70,False
+18,Joseph Willock,Midfielder,Arsenal,England,21,179,71,False
+19,Emile Smith Rowe,Midfielder,Arsenal,England,20,182,79,False
+20,Granit Xhaka,Midfielder,Arsenal,Switzerland,28,185,82,False
+21,Bukayo Saka,Midfielder,Arsenal,England,19,178,65,False
+22,Thomas Partey,Midfielder,Arsenal,Ghana,27,185,77,False
+23,Dani Ceballos,Midfielder,Arsenal  ,Spain,24,179,70,True
+24,Alexandre Lacazette,Forward,Arsenal,France,29,175,73,False
+25,Pierre-Emerick Aubameyang,Forward,Arsenal,Gabon,31,187,80,False
+26,Nicolas Pépé,Forward,Arsenal,Cote D'Ivoire,25,183,73,False
+27,Reiss Nelson,Forward,Arsenal,England,20,175,71,False
+28,Eddie Nketiah,Forward,Arsenal,England,21,175,72,False
+29,Gabriel Martinelli,Forward,Arsenal,Brazil,19,180,75,False
+30,Willian,Forward,Arsenal,Brazil,32,175,77,False
+31,Tom Heaton,Goalkeeper,Aston Villa,England,34,188,85,False
+32,Jed Steer,Goalkeeper,Aston Villa,England,28,183,80,False
+33,Lovre Kalinic,Goalkeeper,Aston Villa,Croatia,30,201,96,False
+34,Emiliano Martínez,Goalkeeper,Aston Villa,Argentina,28,195,88,False
+35,Neil Taylor,Defender,Aston Villa,Wales,31,176,64,False
+36,Ezri Konsa Ngoyo,Defender,Aston Villa,England,22,183,77,False
+37,Matt Targett,Defender,Aston Villa,England,25,183,70,False
+38,Björn Engels,Defender,Aston Villa,Belgium,26,193,83,False
+39,Frédéric Guilbert,Defender,Aston Villa,France,25,178,70,False
+40,Ahmed El Mohamady,Defender,Aston Villa,Egypt,33,183,75,False
+41,Kortney Hause,Defender,Aston Villa,England,25,191,77,False
+42,Tyrone Mings,Defender,Aston Villa,England,27,196,77,False
+43,Douglas Luiz,Midfielder,Aston Villa,Brazil,22,175,66,False
+44,John McGinn,Midfielder,Aston Villa,Scotland,26,178,68,False
+45,Henri Lansbury,Midfielder,Aston Villa,England,30,183,78,False
+46,Jack Grealish,Midfielder,Aston Villa,England,25,175,68,False
+47,Marvelous Nakamba,Midfielder,Aston Villa,Zimbabwe,26,178,71,False
+48,Conor Hourihane,Midfielder,Aston Villa,Ireland,29,180,62,False
+49,Trézéguet,Midfielder,Aston Villa,Egypt,26,180,71,False
+50,Anwar El Ghazi,Midfielder,Aston Villa,Netherlands,25,188,90,False
+51,Ross Barkley,Midfielder,Aston Villa  ,England,26,189,76,True
+52,Wesley,Forward,Aston Villa,Brazil,23,191,93,False
+53,Keinan Davis,Forward,Aston Villa,England,22,191,68,False
+54,Ollie Watkins,Forward,Aston Villa,England,24,180,70,False
+55,Bertrand Traoré,Forward,Aston Villa,Burkina Faso,25,181,73,False
+56,Mat Ryan,Goalkeeper,Brighton,Australia,28,184,82,False
+57,Jason Steele,Goalkeeper,Brighton,England,30,188,79,False
+58,Christian Walton,Goalkeeper,Brighton,England,24,182,75,False
+59,Ben White,Defender,Leeds  ,England,23,182,78,True
+60,Lewis Dunk,Defender,Brighton,England,28,192,88,False
+61,Adam Webster,Defender,Brighton,England,25,191,75,False
+62,Bernardo,Defender,Brighton,Brazil,25,186,76,False
+63,Dan Burn,Defender,Brighton,England,28,198,87,False
+64,Joël Veltman,Defender,Brighton,Netherlands,28,184,75,False
+65,Yves Bissouma,Midfielder,Brighton,Mali,24,182,80,False
+66,Alexis Mac Allister,Midfielder,Brighton,Argentina,21,174,72,False
+67,Pascal Groß,Midfielder,Brighton,Germany,29,181,78,False
+68,Adam Lallana,Midfielder,Brighton,England,32,172,73,False
+69,Solly March,Midfielder,Brighton,England,26,180,88,False
+70,Davy Pröpper,Midfielder,Brighton,Netherlands,29,185,79,False
+71,Steven Alzate,Midfielder,Brighton,Colombia,22,180,75,False
+72,Leandro Trossard,Forward,Brighton,Belgium,25,172,61,False
+73,Neal Maupay,Forward,Brighton,France,24,173,69,False
+74,Alireza Jahanbakhsh,Forward,Brighton,Iran,27,180,76,False
+75,José Izquierdo,Forward,Brighton,Colombia,28,171,73,False
+76,Florin Andone,Forward,Brighton,Romania,27,180,78,False
+77,Andi Zeqiri,Forward,Brighton,Switzerland,21,181,72,False
+78,Danny Welbeck,Forward,Brighton,England,29,185,73,False
+79,Nick Pope,Goalkeeper,Burnley,England,28,191,76,False
+80,Bailey Peacock-Farrell,Goalkeeper,Burnley,Northern Ireland,23,193,73,False
+81,Will Norris,Goalkeeper,Burnley,England,27,195,74,False
+82,Matthew Lowton,Defender,Burnley,England,31,180,78,False
+83,Charlie Taylor,Defender,Burnley,England,27,176,70,False
+84,James Tarkowski,Defender,Burnley,England,27,185,81,False
+85,Ben Mee,Defender,Burnley,England,31,180,74,False
+86,Erik Pieters,Defender,Burnley,Netherlands,32,183,84,False
+87,Phil Bardsley,Defender,Burnley,Scotland,35,180,74,False
+88,Kevin Long,Defender,Burnley,Ireland,30,188,83,False
+89,Jimmy Dunne,Defender,Burnley,Ireland,23,183,75,False
+90,Jack Cork,Midfielder,Burnley,England,31,183,70,False
+91,Jóhann Gudmundsson,Midfielder,Burnley,Iceland,29,186,78,False
+92,Josh Brownhill,Midfielder,Burnley,England,24,180,69,False
+93,Dwight McNeil,Midfielder,Burnley,England,20,183,68,False
+94,Robbie Brady,Midfielder,Burnley,Ireland,28,176,71,False
+95,Ashley Westwood,Midfielder,Burnley,England,30,175,80,False
+96,Dale Stephens,Midfielder,Burnley,England,31,169,71,False
+97,Chris Wood,Forward,Burnley,New Zealand,28,191,81,False
+98,Ashley Barnes,Forward,Burnley,England,30,186,77,False
+99,Jay Rodriguez,Forward,Burnley,England,31,185,84,False
+100,Matej Vydra,Forward,Burnley,Czech Republic,28,180,71,False
+101,Kepa Arrizabalaga,Goalkeeper,Chelsea,Spain,26,189,84,False
+102,Willy Caballero,Goalkeeper,Chelsea,Argentina,39,186,81,False
+103,Edouard Mendy,Goalkeeper,Chelsea,Senegal,28,197,86,False
+104,Antonio Rüdiger,Defender,Chelsea,Germany,27,190,85,False
+105,Marcos Alonso,Defender,Chelsea,Spain,29,188,84,False
+106,Andreas Christensen,Defender,Chelsea,Denmark,24,188,78,False
+107,Kurt Zouma,Defender,Chelsea,France,25,190,96,False
+108,Reece James,Defender,Chelsea,England,20,182,82,False
+109,César Azpilicueta,Defender,Chelsea,Spain,31,178,76,False
+110,Fikayo Tomori,Defender,Chelsea,England,22,185,75,False
+111,Emerson,Defender,Chelsea,Italy,26,176,63,False
+112,Ben Chilwell,Defender,Chelsea,England,23,178,77,False
+113,Thiago Silva,Defender,Chelsea,Brazil,36,183,79,False
+114,Hakim Ziyech,Midfielder,Chelsea,Morocco,27,180,65,False
+115,Jorginho,Midfielder,Chelsea,Italy,28,180,65,False
+116,N'Golo Kanté,Midfielder,Chelsea,France,29,168,68,False
+117,Mateo Kovacic,Midfielder,Chelsea,Croatia,26,178,78,False
+118,Mason Mount,Midfielder,Chelsea,England,21,178,70,False
+119,Christian Pulisic,Midfielder,Chelsea,United States,22,172,69,False
+120,Billy Gilmour,Midfielder,Chelsea,Scotland,19,166,60,False
+121,Kai Havertz,Midfielder,Chelsea,Germany,21,189,82,False
+122,Timo Werner,Forward,Chelsea,Germany,24,180,76,False
+123,Tammy Abraham,Forward,Chelsea,England,23,190,80,False
+124,Olivier Giroud,Forward,Chelsea,France,34,192,93,False
+125,Callum Hudson-Odoi,Forward,Chelsea,England,19,182,76,False
+126,Wayne Hennessey,Goalkeeper,Crystal Palace,Wales,33,198,90,False
+127,Vicente Guaita,Goalkeeper,Crystal Palace,Spain,33,190,81,False
+128,Stephen Henderson,Goalkeeper,Crystal Palace,Ireland,32,193,87,False
+129,Jack Butland,Goalkeeper,Crystal Palace,England,27,196,95,False
+130,Nathan Ferguson,Defender,Crystal Palace,England,20,178,74,False
+131,Joel Ward,Defender,Crystal Palace,England,30,188,83,False
+132,Patrick van Aanholt,Defender,Crystal Palace,Netherlands,30,176,74,False
+133,James Tomkins,Defender,Crystal Palace,England,31,192,74,False
+134,Scott Dann,Defender,Crystal Palace,England,33,188,76,False
+135,Mamadou Sakho,Defender,Crystal Palace,France,30,187,83,False
+136,Gary Cahill,Defender,Crystal Palace,England,34,193,86,False
+137,Martin Kelly,Defender,Crystal Palace,England,30,191,77,False
+138,Nathaniel Clyne,Defender,Crystal Palace,England,29,175,67,False
+139,Luka Milivojevic,Midfielder,Crystal Palace,Serbia,29,186,80,False
+140,Max Meyer,Midfielder,Crystal Palace,Germany,25,173,67,False
+141,Cheikhou Kouyaté,Midfielder,Crystal Palace,Senegal,30,189,83,False
+142,Andros Townsend,Midfielder,Crystal Palace,England,29,181,77,False
+143,Jeffrey Schlupp,Midfielder,Crystal Palace,Ghana,27,178,72,False
+144,James McArthur,Midfielder,Crystal Palace,Scotland,33,178,75,False
+145,James McCarthy,Midfielder,Crystal Palace,Ireland,29,180,72,False
+146,Jairo Riedewald,Midfielder,Crystal Palace,Netherlands,24,182,79,False
+147,Jordan Ayew,Forward,Crystal Palace,Ghana,29,182,80,False
+148,Wilfried Zaha,Forward,Crystal Palace,Cote D'Ivoire,27,180,66,False
+149,Christian Benteke,Forward,Crystal Palace,Belgium,29,190,83,False
+150,Connor Wickham,Forward,Crystal Palace,England,27,191,90,False
+151,Michy Batshuayi,Forward,Crystal Palace  ,Belgium,27,184,74,True
+152,Jordan Pickford,Goalkeeper,Everton,England,26,185,77,False
+153,João Virgínia,Goalkeeper,Everton,Portugal,21,191,83,False
+154,Jonas Lössl,Goalkeeper,Everton,Denmark,31,195,89,False
+155,Robin Olsen,Goalkeeper,Everton  ,Sweden,30,196,86,True
+156,Mason Holgate,Defender,Everton,England,23,184,63,False
+157,Michael Keane,Defender,Everton,England,27,191,82,False
+158,Lucas Digne,Defender,Everton,France,27,178,74,False
+159,Yerry Mina,Defender,Everton,Colombia,26,195,94,False
+160,Séamus Coleman,Defender,Everton,Ireland,32,177,67,False
+161,Jarrad Branthwaite,Defender,Everton,England,18,195,82,False
+162,Jonjoe Kenny,Defender,Everton,England,23,176,67,False
+163,Ben Godfrey,Defender,Everton,England,22,183,74,False
+164,Fabian Delph,Midfielder,Everton,England,30,174,60,False
+165,Gylfi Sigurdsson,Midfielder,Everton,Iceland,31,186,79,False
+166,André Gomes,Midfielder,Everton,Portugal,27,188,84,False
+167,Jean-Philippe Gbamin,Midfielder,Everton,Cote D'Ivoire,25,186,83,False
+168,Tom Davies,Midfielder,Everton,England,22,180,70,False
+169,Beni Baningime,Midfielder,Everton,The Democratic Republic Of Congo,22,178,70,False
+170,Allan,Midfielder,Everton,Brazil,29,173,73,False
+171,James Rodríguez,Midfielder,Everton,Colombia,29,180,75,False
+172,Abdoulaye Doucouré,Midfielder,Everton,France,27,184,75,False
+173,Muhamed Besic,Midfielder,Everton,Bosnia And Herzegovina,28,180,80,False
+174,Yannick Bolasie,Forward,Everton,The Democratic Republic Of Congo,31,188,84,False
+175,Richarlison,Forward,Everton,Brazil,23,184,83,False
+176,Dominic Calvert-Lewin,Forward,Everton,England,23,187,71,False
+177,Cenk Tosun,Forward,Everton,Turkey,29,183,78,False
+178,Alex Iwobi,Forward,Everton,Nigeria,24,180,75,False
+179,Bernard,Forward,Everton,Brazil,28,166,57,False
+180,Marek Rodák,Goalkeeper,Fulham,Slovakia,23,194,81,False
+181,Fabri,Goalkeeper,Fulham,Spain,32,184,79,False
+182,Alphonse Areola,Goalkeeper,Fulham  ,France,27,195,94,True
+183,Michael Hector,Defender,Fulham,Jamaica,28,193,82,False
+184,Denis Odoi,Defender,Fulham,Belgium,32,178,72,False
+185,Tim Ream,Defender,Fulham,United States,33,186,80,False
+186,Maxime Le Marchand,Defender,Fulham,France,31,185,78,False
+187,Joe Bryan,Defender,Fulham,England,27,173,75,False
+188,Antonee Robinson,Defender,Fulham,United States,23,183,70,False
+189,Kenny Tete,Defender,Fulham,Netherlands,25,180,71,False
+190,Ola Aina,Defender,Fulham  ,Nigeria,24,184,82,True
+191,Joachim Andersen,Defender,Fulham  ,Denmark,24,192,90,True
+192,Tosin Adarabioyo,Defender,Fulham,England,23,196,80,False
+193,Terence Kongolo,Defender,Fulham,Netherlands,26,188,70,False
+194,Jean Michael Seri,Midfielder,Fulham,Cote D'Ivoire,29,168,69,False
+195,Kevin McDonald,Midfielder,Fulham,Scotland,31,192,95,False
+196,Neeskens Kebano,Midfielder,Fulham,The Democratic Republic Of Congo,28,170,65,False
+197,Stefan Johansen,Midfielder,Fulham,Norway,29,182,78,False
+198,Tom Cairney,Midfielder,Fulham,Scotland,29,186,84,False
+199,Josh Onomah,Midfielder,Fulham,England,23,185,70,False
+200,André-Frank Zambo Anguissa,Midfielder,Fulham,Cameroon,24,184,78,False
+201,Mario Lemina,Midfielder,Fulham  ,Gabon,27,184,85,True
+202,Harrison Reed,Midfielder,Fulham,England,25,181,72,False
+203,Tyrese Francois,Midfielder,Fulham,Australia,20,166,55,False
+204,Ruben Loftus-Cheek,Midfielder,Fulham  ,England,24,191,88,True
+205,Aleksandar Mitrovic,Forward,Fulham,Serbia,26,189,90,False
+206,Bobby De Cordova-Reid,Forward,Fulham,Jamaica,27,170,68,False
+207,Ivan Cavaleiro,Forward,Fulham,Portugal,27,175,73,False
+208,Aboubakar Kamara,Forward,Fulham,France,25,177,81,False
+209,Ademola Lookman,Forward,Fulham  ,England,23,174,71,True
+210,Kiko Casilla,Goalkeeper,Leeds,Spain,34,190,86,False
+211,Illan Meslier,Goalkeeper,Leeds,France,20,193,74,False
+212,Luke Ayling,Defender,Leeds,England,29,185,72,False
+213,Liam Cooper,Defender,Leeds,Scotland,29,180,73,False
+214,Robin Koch,Defender,Leeds,Germany,24,192,83,False
+215,Diego Llorente,Defender,Leeds,Spain,27,186,75,False
+216,Adam Forshaw,Midfielder,Leeds,England,29,174,71,False
+217,Stuart Dallas,Midfielder,Leeds,Northern Ireland,29,183,81,False
+218,Pablo Hernández,Midfielder,Leeds,Spain,35,173,64,False
+219,Kalvin Phillips,Midfielder,Leeds,England,24,178,72,False
+220,Mateusz Klich,Midfielder,Leeds,Poland,30,183,75,False
+221,Jamie Shackleton,Midfielder,Leeds,England,21,168,65,False
+222,Jack Harrison,Midfielder,Leeds  ,England,23,175,70,True
+223,Patrick Bamford,Forward,Leeds,England,27,185,71,False
+224,Tyler Roberts,Forward,Leeds,Wales,21,180,75,False
+225,Rodrigo Moreno,Forward,Leeds,Spain,29,182,77,False
+226,Raphinha,Forward,Leeds,Brazil,23,176,68,False
+227,Hélder Costa,Forward,Leeds,Portugal,26,178,73,False
+228,Kasper Schmeichel,Goalkeeper,Leicester,Denmark,33,189,89,False
+229,Danny Ward,Goalkeeper,Leicester,Wales,27,191,88,False
+230,Eldin Jakupovic,Goalkeeper,Leicester,Switzerland,36,191,85,False
+231,James Justin,Defender,Leicester,England,22,183,80,False
+232,Çaglar Söyüncü,Defender,Leicester,Turkey,24,185,82,False
+233,Wes Morgan,Defender,Leicester,Jamaica,36,186,101,False
+234,Jonny Evans,Defender,Leicester,Northern Ireland,32,188,77,False
+235,Daniel Amartey,Defender,Leicester,Ghana,25,186,79,False
+236,Ricardo Pereira,Defender,Leicester,Portugal,27,175,70,False
+237,Christian Fuchs,Defender,Leicester,Austria,34,187,89,False
+238,Timothy Castagne,Defender,Leicester,Belgium,24,185,80,False
+239,Demarai Gray,Midfielder,Leicester,England,24,180,74,False
+240,Youri Tielemans,Midfielder,Leicester,Belgium,23,176,72,False
+241,James Maddison,Midfielder,Leicester,England,23,175,73,False
+242,Marc Albrighton,Midfielder,Leicester,England,30,175,74,False
+243,Harvey Barnes,Midfielder,Leicester,England,22,174,66,False
+244,Hamza Choudhury,Midfielder,Leicester,England,23,178,64,False
+245,Onyinye Wilfred Ndidi,Midfielder,Leicester,Nigeria,23,183,74,False
+246,Dennis Praet,Midfielder,Leicester,Belgium,26,181,78,False
+247,Nampalys Mendy,Midfielder,Leicester,France,28,167,73,False
+248,Cengiz Ünder,Midfielder,Leicester  ,Turkey,23,173,66,True
+249,Jamie Vardy,Forward,Leicester,England,33,179,74,False
+250,Islam Slimani,Forward,Leicester,Algeria,32,188,83,False
+251,Kelechi Iheanacho,Forward,Leicester,Nigeria,24,185,82,False
+252,Ayoze Pérez,Forward,Leicester,Spain,27,178,72,False
+253,Alisson,Goalkeeper,Liverpool,Brazil,28,191,91,False
+254,Adrián,Goalkeeper,Liverpool,Spain,33,190,80,False
+255,Caoimhin Kelleher,Goalkeeper,Liverpool,Ireland,21,178,74,False
+256,Virgil van Dijk,Defender,Liverpool,Netherlands,29,193,92,False
+257,Joseph Gomez,Defender,Liverpool,England,23,188,77,False
+258,Andrew Robertson,Defender,Liverpool,Scotland,26,178,64,False
+259,Joel Matip,Defender,Liverpool,Cameroon,29,195,90,False
+260,Trent Alexander-Arnold,Defender,Liverpool,England,22,175,69,False
+261,Konstantinos Tsimikas,Defender,Liverpool,Greece,24,178,77,False
+262,Sepp van den Berg,Defender,Liverpool,Netherlands,18,189,74,False
+263,Fabinho,Midfielder,Liverpool,Brazil,26,188,78,False
+264,Georginio Wijnaldum,Midfielder,Liverpool,Netherlands,29,175,69,False
+265,James Milner,Midfielder,Liverpool,England,34,175,70,False
+266,Naby Keita,Midfielder,Liverpool,Guinea,25,172,64,False
+267,Jordan Henderson,Midfielder,Liverpool,England,30,182,67,False
+268,Alex Oxlade-Chamberlain,Midfielder,Liverpool,England,27,180,70,False
+269,Curtis Jones,Midfielder,Liverpool,England,19,185,75,False
+270,Xherdan Shaqiri,Midfielder,Liverpool,Switzerland,29,169,72,False
+271,Thiago,Midfielder,Liverpool,Spain,29,174,70,False
+272,Roberto Firmino,Forward,Liverpool,Brazil,29,181,76,False
+273,Sadio Mané,Forward,Liverpool,Senegal,28,175,69,False
+274,Mohamed Salah,Forward,Liverpool,Egypt,28,175,71,False
+275,Takumi Minamino,Forward,Liverpool,Japan,25,174,68,False
+276,Divock Origi,Forward,Liverpool,Belgium,25,185,75,False
+277,Diogo Jota,Forward,Liverpool,Portugal,23,178,70,False
+278,Ederson,Goalkeeper,Man City,Brazil,27,188,86,False
+279,Zack Steffen,Goalkeeper,Man City,United States,25,191,86,False
+280,Scott Carson,Goalkeeper,Man City  ,England,35,190,76,True
+281,Nathan Aké,Defender,Man City,Netherlands,25,180,75,False
+282,Kyle Walker,Defender,Man City,England,30,178,70,False
+283,John Stones,Defender,Man City,England,26,188,70,False
+284,Oleksandr Zinchenko,Defender,Man City,Ukraine,23,175,64,False
+285,Aymeric Laporte,Defender,Man City,France,26,191,86,False
+286,Benjamin Mendy,Defender,Man City,France,26,185,85,False
+287,João Cancelo,Defender,Man City,Portugal,26,182,74,False
+288,Rúben Dias,Defender,Man City,Portugal,23,186,76,False
+289,Ilkay Gündogan,Midfielder,Borussia Dortmund,Germany,29,180,80,False
+290,Rodrigo,Midfielder,Man City,Spain,24,191,82,False
+291,Kevin De Bruyne,Midfielder,Man City,Belgium,29,181,68,False
+292,Bernardo Silva,Midfielder,Man City,Portugal,26,173,64,False
+293,Fernandinho,Midfielder,Man City,Brazil,35,179,67,False
+294,Phil Foden,Midfielder,Man City,England,20,171,70,False
+295,Ferran Torres,Forward,Man City,Spain,20,184,77,False
+296,Raheem Sterling,Forward,Man City,England,25,170,69,False
+297,Gabriel Jesus,Forward,Man City,Brazil,23,175,73,False
+298,Sergio Agüero,Forward,Man City,Argentina,32,173,70,False
+299,Riyad Mahrez,Forward,Man City,Algeria,29,179,67,False
+300,David de Gea,Goalkeeper,Man Utd,Spain,29,192,76,False
+301,Lee Grant,Goalkeeper,Man Utd,England,37,193,83,False
+302,Sergio Romero,Goalkeeper,Man Utd,Argentina,33,192,87,False
+303,Dean Henderson,Goalkeeper,Sheffield Utd  ,England,23,188,85,True
+304,Victor Lindelöf,Defender,Man Utd,Sweden,26,187,80,False
+305,Eric Bailly,Defender,Man Utd,Cote D'Ivoire,26,187,77,False
+306,Phil Jones,Defender,Man Utd,England,28,180,71,False
+307,Harry Maguire,Defender,Man Utd,England,27,194,100,False
+308,Marcos Rojo,Defender,Man Utd,Argentina,30,187,85,False
+309,Luke Shaw,Defender,Man Utd,England,25,185,75,False
+310,Timothy Fosu-Mensah,Defender,Man Utd,Netherlands,22,190,78,False
+311,Aaron Wan-Bissaka,Defender,Man Utd,England,22,183,72,False
+312,Axel Tuanzebe,Defender,Man Utd,England,22,182,75,False
+313,Brandon Williams,Defender,Man Utd,England,20,171,63,False
+314,Teden Mengi,Defender,Man Utd,England,18,183,78,False
+315,Alex Telles,Defender,Man Utd,Brazil,27,181,71,False
+316,Paul Pogba,Midfielder,Man Utd,France,27,191,84,False
+317,Juan Mata,Midfielder,Man Utd,Spain,32,170,63,False
+318,Jesse Lingard,Midfielder,Man Utd,England,27,175,62,False
+319,Fred,Midfielder,Man Utd,Brazil,27,169,64,False
+320,Bruno Fernandes,Midfielder,Man Utd,Portugal,26,179,69,False
+321,Daniel James,Midfielder,Man Utd,Wales,22,171,76,False
+322,Nemanja Matic,Midfielder,Man Utd,Serbia,32,194,85,False
+323,Scott McTominay,Midfielder,Man Utd,Scotland,23,193,88,False
+324,Donny van de Beek,Midfielder,Man Utd,Netherlands,23,184,74,False
+325,Facundo Pellistri,Midfielder,Man Utd,Uruguay,18,175,69,False
+326,Anthony Martial,Forward,Man Utd,France,24,181,76,False
+327,Marcus Rashford,Forward,Man Utd,England,22,180,70,False
+328,Odion Ighalo,Forward,Man Utd  ,Nigeria,31,181,73,True
+329,Mason Greenwood,Forward,Man Utd,England,19,181,70,False
+330,Edinson Cavani,Forward,Man Utd,Uruguay,33,184,71,False
+331,Mark Gillespie,Goalkeeper,Newcastle,England,28,192,83,False
+332,Martin Dubravka,Goalkeeper,Newcastle,Slovakia,31,190,80,False
+333,Karl Darlow,Goalkeeper,Newcastle,England,30,190,88,False
+334,Ciaran Clark,Defender,Newcastle,Ireland,31,185,88,False
+335,Paul Dummett,Defender,Newcastle,Wales,29,183,82,False
+336,Fabian Schär,Defender,Newcastle,Switzerland,28,188,84,False
+337,Jamaal Lascelles,Defender,Newcastle,England,26,188,89,False
+338,Emil Krafth,Defender,Newcastle,Sweden,26,184,83,False
+339,Federico Fernández,Defender,Newcastle,Argentina,31,190,83,False
+340,Javier Manquillo,Defender,Newcastle,Spain,26,178,76,False
+341,DeAndre Yedlin,Defender,Newcastle,United States,27,172,75,False
+342,Jamal Lewis,Defender,Newcastle,Northern Ireland,22,178,70,False
+343,Jacob Murphy,Midfielder,Newcastle,England,25,179,74,False
+344,Jonjo Shelvey,Midfielder,Newcastle,England,28,184,80,False
+345,Matt Ritchie,Midfielder,Newcastle,Scotland,31,172,76,False
+346,Isaac Hayden,Midfielder,Newcastle,England,25,185,79,False
+347,Miguel Almirón,Midfielder,Newcastle,Paraguay,26,174,70,False
+348,Christian Atsu,Midfielder,Newcastle,Ghana,28,165,65,False
+349,Sean Longstaff,Midfielder,Newcastle,England,22,180,65,False
+350,Jeff Hendrick,Midfielder,Newcastle,Ireland,28,185,79,False
+351,Ryan Fraser,Midfielder,Newcastle,Scotland,26,163,70,False
+352,Henri Saivet,Midfielder,Newcastle,Senegal,29,174,76,False
+353,Andy Carroll,Forward,Newcastle,England,31,193,79,False
+354,Joelinton,Forward,Newcastle,Brazil,24,186,81,False
+355,Allan Saint-Maximin,Forward,Newcastle,France,23,173,67,False
+356,Dwight Gayle,Forward,Newcastle,England,31,174,78,False
+357,Callum Wilson,Forward,Newcastle,England,28,180,66,False
+358,Wes Foderingham,Goalkeeper,Sheffield Utd,England,29,185,75,False
+359,Michael Verrips,Goalkeeper,Sheffield Utd,Netherlands,23,195,93,False
+360,Simon Moore,Goalkeeper,Sheffield Utd,England,30,191,83,False
+361,Aaron Ramsdale,Goalkeeper,Sheffield Utd,England,22,188,77,False
+362,George Baldock,Defender,Sheffield Utd,England,27,178,71,False
+363,Enda Stevens,Defender,Sheffield Utd,Ireland,30,183,78,False
+364,Jack O'Connell,Defender,Sheffield Utd,England,26,190,85,False
+365,Chris Basham,Defender,Sheffield Utd,England,32,190,80,False
+366,John Egan,Defender,Sheffield Utd,Ireland,28,185,75,False
+367,Jack Robinson,Defender,Sheffield Utd,England,27,168,64,False
+368,Kean Bryan,Defender,Sheffield Utd,England,23,185,72,False
+369,Phil Jagielka,Defender,Sheffield Utd,England,38,180,87,False
+370,Max Lowe,Defender,Sheffield Utd,England,23,175,74,False
+371,Ethan Ampadu,Defender,Sheffield Utd  ,Wales,20,183,78,True
+372,Jayden Bogle,Defender,Sheffield Utd,England,20,178,69,False
+373,John Fleck,Midfielder,Sheffield Utd,Scotland,29,170,72,False
+374,John Lundstram,Midfielder,Sheffield Utd,England,26,181,74,False
+375,Oliver Norwood,Midfielder,Sheffield Utd,Northern Ireland,29,180,75,False
+376,Ben Osborn,Midfielder,Sheffield Utd,England,26,176,75,False
+377,Sander Berge,Midfielder,Sheffield Utd,Norway,22,195,96,False
+378,Jack Rodwell,Midfielder,Sheffield Utd,England,29,188,80,False
+379,Oliver Burke,Midfielder,Sheffield Utd,Scotland,23,188,74,False
+380,Oliver McBurnie,Forward,Sheffield Utd,Scotland,24,188,79,False
+381,Billy Sharp,Forward,Sheffield Utd,England,34,175,70,False
+382,David McGoldrick,Forward,Sheffield Utd,Ireland,32,183,74,False
+383,Lys Mousset,Forward,Sheffield Utd,France,24,184,80,False
+384,Rhian Brewster,Forward,Sheffield Utd,England,20,180,75,False
+385,Alex McCarthy,Goalkeeper,Southampton,England,30,193,79,False
+386,Fraser Forster,Goalkeeper,Southampton,England,32,201,93,False
+387,Harry Lewis,Goalkeeper,Southampton,England,22,191,77,False
+388,Jannik Vestergaard,Defender,Southampton,Denmark,28,199,96,False
+389,Jack Stephens,Defender,Southampton,England,26,185,75,False
+390,Ryan Bertrand,Defender,Southampton,England,31,179,85,False
+391,Jan Bednarek,Defender,Lech Poznan,Poland,24,189,77,False
+392,Yan Valery,Defender,Southampton,France,21,180,85,False
+393,Kyle Walker-Peters,Defender,Southampton,England,23,173,62,False
+394,Mohammed Salisu,Defender,Southampton,Ghana,21,191,82,False
+395,Moussa Djenepo,Midfielder,Southampton,Mali,22,177,65,False
+396,Oriol Romeu,Midfielder,Southampton,Spain,29,183,83,False
+397,James Ward-Prowse,Midfielder,Southampton,England,25,173,66,False
+398,Stuart Armstrong,Midfielder,Southampton,Scotland,28,183,75,False
+399,Nathan Redmond,Midfielder,Southampton,England,26,173,69,False
+400,Ibrahima Diallo,Midfielder,Southampton,France,21,179,68,False
+401,Shane Long,Forward,Southampton,Ireland,33,178,81,False
+402,Danny Ings,Forward,Southampton,England,28,178,73,False
+403,Che Adams,Forward,Southampton,England,24,175,70,False
+404,Michael Obafemi,Forward,Southampton,Ireland,20,169,71,False
+405,Theo Walcott,Forward,Southampton  ,England,31,176,68,True
+406,Hugo Lloris,Goalkeeper,Spurs,France,33,188,82,False
+407,Paulo Gazzaniga,Goalkeeper,Spurs,Argentina,28,196,90,False
+408,Joe Hart,Goalkeeper,Spurs,England,33,196,91,False
+409,Alfie Whiteman,Goalkeeper,Spurs,England,22,189,84,False
+410,Brandon Austin,Goalkeeper,Spurs,England,21,188,82,False
+411,Toby Alderweireld,Defender,Spurs,Belgium,31,187,90,False
+412,Davinson Sánchez,Defender,Spurs,Colombia,24,187,81,False
+413,Serge Aurier,Defender,Spurs,Cote D'Ivoire,27,176,76,False
+414,Ben Davies,Defender,Spurs,Wales,27,181,76,False
+415,Japhet Tanganga,Defender,Spurs,England,21,184,76,False
+416,Matt Doherty,Defender,Spurs,Ireland,28,182,80,False
+417,Sergio Reguilón,Defender,Spurs,Spain,23,178,68,False
+418,Joe Rodon,Defender,Spurs,Wales,22,180,70,False
+419,Harry Winks,Midfielder,Spurs,England,24,178,65,False
+420,Erik Lamela,Midfielder,Spurs,Argentina,28,181,79,False
+421,Eric Dier,Midfielder,Spurs,England,26,188,88,False
+422,Moussa Sissoko,Midfielder,Spurs,France,31,187,83,False
+423,Dele Alli,Midfielder,Spurs,England,24,188,76,False
+424,Tanguy Ndombele,Midfielder,Spurs,France,23,181,76,False
+425,Gedson Fernandes,Midfielder,Spurs  ,Portugal,21,182,71,True
+426,Pierre-Emile Højbjerg,Midfielder,Spurs,Denmark,25,185,84,False
+427,Giovani Lo Celso,Midfielder,Spurs,Argentina,24,177,68,False
+428,Lucas Moura,Forward,Spurs,Brazil,28,172,72,False
+429,Jack Clarke,Forward,Spurs,England,19,181,74,False
+430,Son Heung-Min,Forward,Spurs,South Korea,28,183,78,False
+431,Harry Kane,Forward,Spurs,England,27,188,86,False
+432,Steven Bergwijn,Forward,Spurs,Netherlands,23,178,78,False
+433,Gareth Bale,Forward,Spurs  ,Wales,31,185,81,True
+434,Carlos Vinicius,Forward,Spurs,Brazil,25,190,86,False
+435,Sam Johnstone,Goalkeeper,West Brom,England,27,193,85,False
+436,David Button,Goalkeeper,West Brom,England,31,191,87,False
+437,Jonathan Bond,Goalkeeper,West Brom,England,27,196,85,False
+438,Darnell Furlong,Defender,West Brom,England,24,183,76,False
+439,Kieran Gibbs,Defender,West Brom,England,31,181,73,False
+440,Kyle Bartley,Defender,West Brom,England,29,185,70,False
+441,Semi Ajayi,Defender,West Brom,Nigeria,26,193,83,False
+442,Conor Townsend,Defender,West Brom,England,27,168,62,False
+443,Ahmed Hegazi,Defender,West Brom,Egypt,29,193,83,False
+444,Lee Peltier,Defender,West Brom,England,33,178,73,False
+445,Branislav Ivanovic,Defender,West Brom,Serbia,36,185,80,False
+446,Jake Livermore,Midfielder,West Brom,England,30,181,91,False
+447,Matt Phillips,Midfielder,West Brom,Scotland,29,185,75,False
+448,Kamil Grosicki,Midfielder,West Brom,Poland,32,180,78,False
+449,Rekeem Harper,Midfielder,West Brom,England,20,188,81,False
+450,Romaine Sawyers,Midfielder,West Brom,Saint Kitts And Nevis,28,175,67,False
+451,Sam Field,Midfielder,West Brom,England,22,185,65,False
+452,Kyle Edwards,Midfielder,West Brom,England,22,172,64,False
+453,Grady Diangana,Midfielder,West Brom,England,22,180,73,False
+454,Filip Krovinovic,Midfielder,West Brom  ,Croatia,25,175,70,True
+455,Hal Robson-Kanu,Forward,West Brom,Wales,31,183,83,False
+456,Matheus Pereira,Forward,West Brom,Brazil,24,175,69,False
+457,Charlie Austin,Forward,West Brom,England,31,188,84,False
+458,Callum Robinson,Forward,West Brom,Ireland,25,178,75,False
+459,Karlan Grant,Forward,West Brom,England,23,180,70,False
+460,Lukasz Fabianski,Goalkeeper,West Ham,Poland,35,190,83,False
+461,David Martin,Goalkeeper,West Ham,England,34,185,85,False
+462,Darren Randolph,Goalkeeper,West Ham,Ireland,33,188,98,False
+463,Nathan Trott,Goalkeeper,West Ham,England,21,184,70,False
+464,Aaron Cresswell,Defender,West Ham,England,30,170,66,False
+465,Fabián Balbuena,Defender,West Ham,Paraguay,29,188,82,False
+466,Gonçalo Cardoso,Defender,West Ham,Portugal,19,189,83,False
+467,Angelo Ogbonna,Defender,West Ham,Italy,32,191,86,False
+468,Issa Diop,Defender,West Ham,France,23,194,92,False
+469,Ryan Fredericks,Defender,West Ham,England,28,181,74,False
+470,Arthur Masuaku,Defender,West Ham,The Democratic Republic Of Congo,26,179,70,False
+471,Ben Johnson,Defender,West Ham,England,20,175,67,False
+472,Vladimir Coufal,Defender,West Ham,Czech Republic,28,179,76,False
+473,Craig Dawson,Defender,West Ham  ,England,30,188,82,True
+474,Manuel Lanzini,Midfielder,West Ham,Argentina,27,167,59,False
+475,Robert Snodgrass,Midfielder,West Ham,Scotland,33,182,82,False
+476,Mark Noble,Midfielder,West Ham,England,33,180,70,False
+477,Pablo Fornals,Midfielder,West Ham,Spain,24,178,67,False
+478,Declan Rice,Defender,West Ham,England,21,185,76,False
+479,Tomas Soucek,Midfielder,West Ham,Czech Republic,25,192,86,False
+480,Michail Antonio,Forward,West Ham,England,30,180,82,False
+481,Andriy Yarmolenko,Forward,West Ham,Ukraine,30,189,81,False
+482,Jarrod Bowen,Forward,West Ham,England,23,175,70,False
+483,Sébastien Haller,Forward,West Ham,France,26,190,82,False
+484,Saïd Benrahma,Forward,West Ham  ,Algeria,25,172,67,True
+485,Rui Patrício,Goalkeeper,Wolves,Portugal,32,190,84,False
+486,John Ruddy,Goalkeeper,Wolves,England,33,193,97,False
+487,Willy Boly,Defender,Wolves,France,29,195,92,False
+488,Conor Coady,Defender,Wolves,England,27,185,73,False
+489,Jonny,Defender,Wolves,Spain,26,175,70,False
+490,Oskar Buur,Defender,Wolves,Denmark,22,178,65,False
+491,Marçal,Defender,Wolves,Brazil,31,178,74,False
+492,Ki-Jana Hoever,Defender,Wolves,Netherlands,18,180,65,False
+493,Nélson Semedo,Defender,Wolves,Portugal,26,177,67,False
+494,Rayan Aït-Nouri,Defender,Wolves  ,France,19,179,70,True
+495,Rúben Neves,Midfielder,Wolves,Portugal,23,180,72,False
+496,Daniel Podence,Midfielder,Wolves,Portugal,24,165,58,False
+497,Romain Saïss,Midfielder,Wolves,Morocco,30,190,80,False
+498,João Moutinho,Midfielder,Wolves,Portugal,34,170,61,False
+499,Leander Dendoncker,Midfielder,Wolves,Belgium,25,188,76,False
+500,Vitinha,Midfielder,Wolves  ,Portugal,20,172,64,True
+501,Meritan Shabani,Midfielder,Wolves,Germany,21,185,78,False
+502,Owen Otasowie,Midfielder,Wolves,United States,19,183,82,False
+503,Pedro Neto,Forward,Wolves,Portugal,20,172,69,False
+504,Raúl Jiménez,Forward,Wolves,Mexico,29,190,76,False
+505,Adama Traoré,Forward,Wolves,Spain,24,178,72,False
+506,Fábio Silva,Forward,Wolves,Portugal,18,185,75,False
+507,Leonardo Campana,Forward,Wolves,Ecuador,20,187,79,False
